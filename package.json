@@ -2,7 +2,6 @@
   "name": "react_movie_app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://yts.mx/api/v2/list_movies.json",
   "dependencies": {
     "@craco/craco": "^5.8.0",
     "@testing-library/jest-dom": "^5.11.4",
